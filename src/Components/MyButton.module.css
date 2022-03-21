@@ -1,0 +1,11 @@
+.Button{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30pt;
+    color: rgb(252, 245, 245);
+    background-color: rgb(240, 158, 110);
+    border-radius: 12px;
+}
+.Comp{
+    text-align: center;
+}

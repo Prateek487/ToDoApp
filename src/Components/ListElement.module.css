@@ -1,0 +1,39 @@
+.NotDone {
+  font-size: 20pt;
+  width: 50%;
+  color: rgb(252, 245, 245);
+  background-color: rgb(240, 158, 110);
+  border: 2px #b44a03 solid;
+  margin: 20px;
+}
+.SetDone {
+  display: inline-block;
+  width: 90%;
+}
+.NotDone .SetDone button {
+  font-size: 20pt;
+  border: none;
+  background-color: rgb(240, 158, 110);
+}
+.Done {
+  font-size: 20pt;
+  width: 50%;
+  margin: 20px;
+  color: rgb(252, 245, 245);
+  background-color: rgb(159, 240, 134);
+  border: 2px #08df13 solid;
+}
+.Done .SetDone button {
+  font-size: 20pt;
+  border: none;
+  background-color: rgb(159, 240, 134);
+}
+.Close {
+  text-align: right;
+  display: inline-block;
+  width: 10%;
+}
+.Close button {
+  height: 100%;
+  font-size: 10pt;
+}

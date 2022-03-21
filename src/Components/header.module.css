@@ -1,0 +1,28 @@
+.HeaderBar {
+  background-color: lightblue;
+  text-align: center;
+  font-size: 30pt;
+  margin-top: 0%;
+  padding-top: 0%;
+}
+.NavBar {
+  display: inline-block;
+  width: 90%;
+}
+.NavBar a {
+  text-decoration: none;
+  margin: 10px;
+  font-size: 20pt;
+  color: rgb(240, 158, 110);
+}
+.LogoutButton {
+  width: 10%;
+  text-align: right;
+  display: inline-block;
+}
+.LogoutButton button {
+  font-size: 20pt;
+  color: rgb(252, 245, 245);
+  background-color: rgb(240, 158, 110);
+  border-color: rgb(240, 158, 110);
+}
